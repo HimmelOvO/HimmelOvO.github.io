@@ -103,5 +103,5 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://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@github.com/HimmelOvO/HimmelOvO.github.io.git
+  repo: https://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@github.com/HimmelOvO/HimmelOvO.github.io.git
   branch: master
